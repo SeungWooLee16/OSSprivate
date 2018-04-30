@@ -3,6 +3,6 @@
 int main()
 {
   printf("OSS test\n");
-  printf("Third OSS test");
+  printf("Secnond OSS test");
   return 0;
 }
